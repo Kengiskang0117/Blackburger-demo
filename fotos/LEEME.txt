@@ -1,0 +1,6 @@
+Guarda aqui las fotos de los productos (jpg, png o webp).
+
+Luego, en index.html, busca el producto y escribe la ruta en img, por ejemplo:
+  { id:"doble-t", nombre:"Doble T", ... img:"fotos/doble-t.jpg" }
+
+Para el logo: guarda el archivo aqui y en NEGOCIO escribe  logo: "fotos/logo.png"
